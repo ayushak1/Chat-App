@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627360312758",
+    "project_id": "chatapp-8c498",
+    "storage_bucket": "chatapp-8c498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627360312758:android:822b1d35d900b4fac16517",
+        "android_client_info": {
+          "package_name": "com.handson.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627360312758-h7e3vsomrren2lcqm99sghejpsqispop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAngwYVnDXy81A1ChHvpA3S9XOyl0qQSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627360312758-h7e3vsomrren2lcqm99sghejpsqispop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
